@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <style>
+table, th, td {
+  border:1px solid grey;
+}
+</style>
+    <meta charset="utf-8">
+    <title>MY WEBSITE</title>
+  </head>
+  <body>
+  <img src="anjali.png" alt="" width="300" height="300">
+
+  <h1>DETAILS</h1>
+
+<table>
+  <tr>
+    <th style="background-color:#FF0000"><p style="color:white;">NAME</p></th>
+    <th style="background-color:#FF0000"><p style="color:white;">GENDER</p></th>
+    <th style="background-color:#FF0000"><p style="color:white;">AGE</p></th>
+    <th style="background-color:#FF0000"><p style="color:white;">MOBILENO.</p></th>
+<th style="background-color:#FF0000"><p style="color:white;">EMAIL</p></th>
+  </tr>
+  <tr>
+    <td>ANJALI SHARMA</td>
+    <td>FEMALE</td>
+    <td>20</td>
+    <td>8207836349</td>
+    <td><b>sharmaanjali2552@gmail.com</b></td>
+  </tr>
+
+</table>
+  </body>
+</html>
